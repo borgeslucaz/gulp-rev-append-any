@@ -61,5 +61,3 @@ will turn into something similar as the following after running `gulp-rev-append
 The only requirement is that the dependency to be appended with the hash be declared using `?rev=`. The `@@hash` is not required, and any value will be overriden as the dependency file contents change.
 
 
-[Google | Leverage Proxy Cache Article](https://developers.google.com/speed/docs/best-practices/caching?csw=1#LeverageProxyCaching)
-[Steve Souders | Revving Filenames: don't use querystring](http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/)
